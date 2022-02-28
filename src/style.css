@@ -1,0 +1,20 @@
+.container{
+    margin: 25px;
+    padding: 50px;
+    position: relative;
+    max-width: 100%;
+    border: 1px solid rgb(97, 96, 96) !important;
+    margin-left: 5.8rem;
+    height: auto;
+    font-size:20px
+}
+.tilte{
+    padding:25px;
+    font-size:40px;
+}
+p{
+    font-size:30px;
+}
+.img-center{
+    text-align:center
+}
